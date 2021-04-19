@@ -1,0 +1,10 @@
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\bin\Debug\Formulario_Controles.exe.config
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\bin\Debug\Formulario_Controles.exe
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\bin\Debug\Formulario_Controles.pdb
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\obj\Debug\Formulario_Controles.csprojAssemblyReference.cache
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\obj\Debug\Formulario_Controles.Form1.resources
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\obj\Debug\Formulario_Controles.Properties.Resources.resources
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\obj\Debug\Formulario_Controles.csproj.GenerateResource.cache
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\obj\Debug\Formulario_Controles.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\obj\Debug\Formulario_Controles.exe
+C:\Users\pietr\source\repos\TesteFormulario\Formulario_Controles\obj\Debug\Formulario_Controles.pdb

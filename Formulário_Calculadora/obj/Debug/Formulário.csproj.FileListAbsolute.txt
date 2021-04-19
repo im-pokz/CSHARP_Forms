@@ -1,0 +1,10 @@
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\bin\Debug\Formulário.exe.config
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\bin\Debug\Formulário.exe
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\bin\Debug\Formulário.pdb
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\obj\Debug\Formulário.csprojAssemblyReference.cache
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\obj\Debug\Formulário.Form1.resources
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\obj\Debug\Formulário.Properties.Resources.resources
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\obj\Debug\Formulário.csproj.GenerateResource.cache
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\obj\Debug\Formulário.csproj.CoreCompileInputs.cache
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\obj\Debug\Formulário.exe
+C:\Users\pietr\source\repos\TesteFormulario\Formulário\obj\Debug\Formulário.pdb
